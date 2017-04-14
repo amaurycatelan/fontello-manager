@@ -9,9 +9,9 @@
     "font",
     "icon"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": {
-    "fontello-cli": "./bin/fontello-manager"
+    "fontello-manager": "./bin/fontello-manager"
   },
   "main": "./lib/fontello",
   "engines": {
